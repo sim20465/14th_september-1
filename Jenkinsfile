@@ -2,6 +2,8 @@
 
 import java.net.URL
 import hudson.model.*
+    
+// some comment
 
 node{
     stage('Git Checkout'){
